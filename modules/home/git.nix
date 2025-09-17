@@ -3,7 +3,7 @@
   programs.git = {
     enable = true;
 
-    userName = "First-Non-Intersting-Username";
+    userName = "First-Non-Interesting-Username";
     userEmail = "janekmusin@gmail.com";
 
     extraConfig = {
